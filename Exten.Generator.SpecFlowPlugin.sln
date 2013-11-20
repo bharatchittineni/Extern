@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exten.Generator.SpecFlowPlugin", "Exten.Generator.SpecFlowPlugin\Exten.Generator.SpecFlowPlugin.csproj", "{AB3EB15D-33AE-4F31-B3F9-EFC36137427F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingCustomSpecFlow", "UsingCustomSpecFlow\UsingCustomSpecFlow.csproj", "{3F6D3034-7C67-4EFA-AE72-6A9FC3A3F8AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB3EB15D-33AE-4F31-B3F9-EFC36137427F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB3EB15D-33AE-4F31-B3F9-EFC36137427F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB3EB15D-33AE-4F31-B3F9-EFC36137427F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB3EB15D-33AE-4F31-B3F9-EFC36137427F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F6D3034-7C67-4EFA-AE72-6A9FC3A3F8AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F6D3034-7C67-4EFA-AE72-6A9FC3A3F8AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F6D3034-7C67-4EFA-AE72-6A9FC3A3F8AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F6D3034-7C67-4EFA-AE72-6A9FC3A3F8AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
