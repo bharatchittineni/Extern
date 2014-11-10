@@ -16,3 +16,12 @@ C:\Bharat\Projects\Exten.Generator.SpecFlowPlugin\UsingCustomSpecFlow\bin\Debug\
 C:\Bharat\Projects\Exten.Generator.SpecFlowPlugin\UsingCustomSpecFlow\obj\Debug\UsingCustomSpecFlow.csprojResolveAssemblyReference.cache
 C:\Bharat\Projects\Exten.Generator.SpecFlowPlugin\UsingCustomSpecFlow\obj\Debug\UsingCustomSpecFlow.dll
 C:\Bharat\Projects\Exten.Generator.SpecFlowPlugin\UsingCustomSpecFlow\obj\Debug\UsingCustomSpecFlow.pdb
+C:\Users\Bharat\Source\Repos\Extern\UsingCustomSpecFlow\bin\Debug\UsingCustomSpecFlow.dll.config
+C:\Users\Bharat\Source\Repos\Extern\UsingCustomSpecFlow\bin\Debug\UsingCustomSpecFlow.dll
+C:\Users\Bharat\Source\Repos\Extern\UsingCustomSpecFlow\bin\Debug\UsingCustomSpecFlow.pdb
+C:\Users\Bharat\Source\Repos\Extern\UsingCustomSpecFlow\bin\Debug\nunit.framework.dll
+C:\Users\Bharat\Source\Repos\Extern\UsingCustomSpecFlow\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Bharat\Source\Repos\Extern\UsingCustomSpecFlow\bin\Debug\nunit.framework.xml
+C:\Users\Bharat\Source\Repos\Extern\UsingCustomSpecFlow\obj\Debug\UsingCustomSpecFlow.csprojResolveAssemblyReference.cache
+C:\Users\Bharat\Source\Repos\Extern\UsingCustomSpecFlow\obj\Debug\UsingCustomSpecFlow.dll
+C:\Users\Bharat\Source\Repos\Extern\UsingCustomSpecFlow\obj\Debug\UsingCustomSpecFlow.pdb
