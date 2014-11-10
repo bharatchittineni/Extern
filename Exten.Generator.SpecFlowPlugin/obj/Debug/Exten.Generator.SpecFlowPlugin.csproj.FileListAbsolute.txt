@@ -42,6 +42,5 @@ C:\Users\Bharat\Source\Repos\Extern\Exten.Generator.SpecFlowPlugin\bin\Debug\IKV
 C:\Users\Bharat\Source\Repos\Extern\Exten.Generator.SpecFlowPlugin\bin\Debug\IKVM.OpenJDK.Util.dll
 C:\Users\Bharat\Source\Repos\Extern\Exten.Generator.SpecFlowPlugin\bin\Debug\IKVM.OpenJDK.Security.dll
 C:\Users\Bharat\Source\Repos\Extern\Exten.Generator.SpecFlowPlugin\bin\Debug\IKVM.OpenJDK.Text.dll
-C:\Users\Bharat\Source\Repos\Extern\Exten.Generator.SpecFlowPlugin\obj\Debug\Exten.Generator.SpecFlowPlugin.csprojResolveAssemblyReference.cache
 C:\Users\Bharat\Source\Repos\Extern\Exten.Generator.SpecFlowPlugin\obj\Debug\Exten.Generator.SpecFlowPlugin.dll
 C:\Users\Bharat\Source\Repos\Extern\Exten.Generator.SpecFlowPlugin\obj\Debug\Exten.Generator.SpecFlowPlugin.pdb
