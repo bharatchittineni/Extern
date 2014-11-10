@@ -11,6 +11,7 @@ namespace UsingCustomSpecFlow
     [Binding]
     public class Hooks1
     {
+
         private static string prevSmokeScenarioName = "H";
         // For additional details on SpecFlow hooks see http://go.specflow.org/doc-hooks")]
        [BeforeScenario]
