@@ -8,7 +8,7 @@ using TechTalk.SpecFlow.UnitTestProvider;
 
 namespace UsingCustomSpecFlow
 {
-    [Binding]
+    Binding]
     public class Hooks1
     {
 
