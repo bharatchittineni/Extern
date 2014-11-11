@@ -1,1 +1,0 @@
-﻿#error Generation error: Unable to find plugin in the plugin search path: Exten. Please check http://go.specflow.org/doc-plugins for details.

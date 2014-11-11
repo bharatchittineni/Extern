@@ -22,6 +22,5 @@ C:\Users\Bharat\Source\Repos\Extern\UsingCustomSpecFlow\bin\Debug\UsingCustomSpe
 C:\Users\Bharat\Source\Repos\Extern\UsingCustomSpecFlow\bin\Debug\nunit.framework.dll
 C:\Users\Bharat\Source\Repos\Extern\UsingCustomSpecFlow\bin\Debug\TechTalk.SpecFlow.dll
 C:\Users\Bharat\Source\Repos\Extern\UsingCustomSpecFlow\bin\Debug\nunit.framework.xml
-C:\Users\Bharat\Source\Repos\Extern\UsingCustomSpecFlow\obj\Debug\UsingCustomSpecFlow.csprojResolveAssemblyReference.cache
 C:\Users\Bharat\Source\Repos\Extern\UsingCustomSpecFlow\obj\Debug\UsingCustomSpecFlow.dll
 C:\Users\Bharat\Source\Repos\Extern\UsingCustomSpecFlow\obj\Debug\UsingCustomSpecFlow.pdb
